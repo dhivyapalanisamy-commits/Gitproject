@@ -1,3 +1,4 @@
 intsall python
 pip intsall pandas # data cleaning
 pip intsall numpy
+install mysql server
